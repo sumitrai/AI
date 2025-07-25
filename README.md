@@ -1,2 +1,2 @@
 # AI
-Just learning more about AI and related topics.
+Learning more about AI and related topics.
